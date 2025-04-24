@@ -1,0 +1,121 @@
+[
+{
+  "ParcelNumber": "4590020280000",
+  "Date": "2024-04-16T10:00:00Z",
+  "Price": 3500000,
+  "BureauOfConveyancesLink": "https://media.hawaiiisdfnformation.com/REsearch/DisplayBOCdocument.asp?DB=DBLIVE&docNum=88720350&lcdNum=0&documentType=BOC&LS=RE&DT=9222&H=5534ae0efb54cf3d865eaf34c13cbc76",
+  "ConveyanceTax": "Error accessing PDF: HTTPSConnectionPool(host='media.hawaiiisdfnformation.com', port=443): Max retries exceeded with url: /REsearch/DisplayBOCdocument.asp?DB=DBLIVE&docNum=88720350&lcdNum=0&documentType=BOC&LS=RE&DT=9222&H=5534ae0efb54cf3d865eaf34c13cbc76 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x1098a3230>: Failed to resolve 'media.hawaiiisdfnformation.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
+},
+{
+  "ParcelNumber": "4580120200000",
+  "Date": "2024-03-12T10:00:00Z",
+  "Price": 2200000,
+  "BureauOfConveyancesLink": "https://media.hawaiiinformation.com/REsearch/DisplayBOCdocument.asp?DB=DBLIVE&docNum=88370228&lcdNum=0&documentType=BOC&LS=RE&DT=9218&H=8e4c7ae2d4f1e8a48071105216fd4710",
+  "ConveyanceTax": "13,200.00"
+},
+{
+  "ParcelNumber": "4580110530000",
+  "Date": "2024-05-31T10:00:00Z",
+  "Price": 2035000,
+  "BureauOfConveyancesLink": "https://media.hawaiiinformation.com/REsearch/DisplayBOCdocument.asp?DB=DBLIVE&docNum=89170096&lcdNum=0&documentType=BOC&LS=RE&DT=9224&H=56d8f018f5cd5bf3c1bc63d5d43fd39c",
+  "ConveyanceTax": "12,210.00"
+},
+{
+  "ParcelNumber": "4580110270030",
+  "Date": "2024-03-20T10:00:00Z",
+  "Price": 675000,
+  "BureauOfConveyancesLink": "https://media.hawaiiinformation.com/REsearch/DisplayBOCdocument.asp?DB=DBLIVE&docNum=88450391&lcdNum=0&documentType=BOC&LS=RE&DT=9227&H=5b8160576f57d4cfd02d952adc3ead15",
+  "ConveyanceTax": "1,687.50"
+},
+{
+  "ParcelNumber": "4580110250000",
+  "Date": "2024-03-01T10:00:00Z",
+  "Price": 1950000,
+  "BureauOfConveyancesLink": "https://media.hawaiiinformation.com/REsearch/DisplayBOCdocument.asp?DB=DBLIVE&docNum=88260331&lcdNum=0&documentType=BOC&LS=RE&DT=9223&H=1ed9274e5cf7dc3931e7e388f58a79c0",
+  "ConveyanceTax": "7,800.00"
+},
+{
+  "ParcelNumber": "4590020280000",
+  "Date": "2024-04-16T10:00:00Z",
+  "Price": 3500000,
+  "BureauOfConveyancesLink": "https://media.hawaiiinformation.com/REsearch/DisplayBOCdocument.asp?DB=DBLIVE&docNum=88720350&lcdNum=0&documentType=BOC&LS=RE&DT=9222&H=5534ae0efb54cf3d865eaf34c13cbc76",
+  "ConveyanceTax": "21,000.00"
+},
+{
+  "ParcelNumber": "1240050100000",
+  "Date": "2024-04-04T10:00:00Z",
+  "Price": 3525000,
+  "BureauOfConveyancesLink": "https://media.hawaiiinformation.com/REsearch/DisplayBOCdocument.asp?DB=DBLIVE&docNum=88600227&lcdNum=0&documentType=BOC&LS=RE&DT=9208&H=f3608df92a9052e66633f081f007d177",
+  "ConveyanceTax": "17,625.00"
+},
+{
+  "ParcelNumber": "1240030030069",
+  "Date": "2024-04-08T10:00:00Z",
+  "Price": 255000,
+  "BureauOfConveyancesLink": "https://media.hawaiiinformation.com/REsearch/DisplayBOCdocument.asp?DB=DBLIVE&docNum=88640212&lcdNum=0&documentType=BOC&LS=RE&DT=9227&H=cbbba67f215fb309985f48c6057cd0b9",
+  "ConveyanceTax": "382.50"
+},
+{
+  "ParcelNumber": "1240020150000",
+  "Date": "2024-01-30T10:00:00Z",
+  "Price": 1099000,
+  "BureauOfConveyancesLink": "https://media.hawaiiinformation.com/REsearch/DisplayBOCdocument.asp?DB=DBLIVE&docNum=87950174&lcdNum=0&documentType=BOC&LS=RE&DT=9208&H=17bcd296609bebaae24cd3292a8c42f0",
+  "ConveyanceTax": "3297.00"
+},
+{
+  "ParcelNumber": "1230410110103",
+  "Date": "2024-03-08T10:00:00Z",
+  "Price": 341000,
+  "BureauOfConveyancesLink": "https://media.hawaiiinformation.com/REsearch/DisplayBOCdocument.asp?DB=DBLIVE&docNum=912485001&lcdNum=12485001&documentType=BOC&LS=RE&DT=9227&H=aeb6d0e844120100de450808d09af79d",
+  "ConveyanceTax": "511.50"
+},
+{
+  "ParcelNumber": "1230410110095",
+  "Date": "2024-06-27T10:00:00Z",
+  "Price": 395600,
+  "BureauOfConveyancesLink": "https://media.hawaiiinformation.com/REsearch/DisplayBOCdocument.asp?DB=DBLIVE&docNum=912596179&lcdNum=12596179&documentType=BOC&LS=RE&DT=9227&H=284ed0d6994e9cfbfe30c0c3bd392e1b",
+  "ConveyanceTax": "5930"
+},
+{
+  "ParcelNumber": "1230410110056",
+  "Date": "2024-06-27T10:00:00Z",
+  "Price": 427300,
+  "BureauOfConveyancesLink": "https://media.hawaiiinformation.com/REsearch/DisplayBOCdocument.asp?DB=DBLIVE&docNum=912596183&lcdNum=12596183&documentType=BOC&LS=RE&DT=9227&H=cfbfdf2c3c7b66a4c3907c6cc50a1b7e",
+  "ConveyanceTax": "640.95"
+},
+{
+  "ParcelNumber": "1230410110036",
+  "Date": "2024-05-31T10:00:00Z",
+  "Price": 420000,
+  "BureauOfConveyancesLink": "https://media.hawaiiinformation.com/REsearch/DisplayBOCdocument.asp?DB=DBLIVE&docNum=912569072&lcdNum=12569072&documentType=BOC&LS=RE&DT=9227&H=8dbba7e67635ec21e980805242b95e03",
+  "ConveyanceTax": "630.00"
+},
+{
+  "ParcelNumber": "1230400220096",
+  "Date": "2024-02-21T10:00:00Z",
+  "Price": 1788000,
+  "BureauOfConveyancesLink": "https://media.hawaiiinformation.com/REsearch/DisplayBOCdocument.asp?DB=DBLIVE&docNum=912469022&lcdNum=12469022&documentType=BOC&LS=RE&DT=9227&H=d93a7ed1efe5ef8bdc58c7bd514fd0d1",
+  "ConveyanceTax": "5,364.00"
+},
+{
+  "ParcelNumber": "1230400220034",
+  "Date": "2024-04-01T10:00:00Z",
+  "Price": 1750000,
+  "BureauOfConveyancesLink": "https://media.hawaiiinformation.com/REsearch/DisplayBOCdocument.asp?DB=DBLIVE&docNum=912509036&lcdNum=12509036&documentType=BOC&LS=RE&DT=9227&H=803accb033ab2770c9ef6948c3d1a1c1",
+  "ConveyanceTax": "7,000.00"
+},
+{
+  "ParcelNumber": "1230400220011",
+  "Date": "2024-04-30T10:00:00Z",
+  "Price": 2000000,
+  "BureauOfConveyancesLink": "https://media.hawaiiinformation.com/REsearch/DisplayBOCdocument.asp?DB=DBLIVE&docNum=912538069&lcdNum=12538069&documentType=BOC&LS=RE&DT=9227&H=bc477b5e1cb09c0176cd34a0b8027116",
+  "ConveyanceTax": "12,000.00"
+},
+{
+  "ParcelNumber": "1230390190052",
+  "Date": "2024-02-22T10:00:00Z",
+  "Price": 810000,
+  "BureauOfConveyancesLink": "https://media.hawaiiinformation.com/REsearch/DisplayBOCdocument.asp?DB=DBLIVE&docNum=912470014&lcdNum=12470014&documentType=BOC&LS=RE&DT=9227&H=997b071091099844e8601227e54424cb",
+  "ConveyanceTax": "2,025.00"
+}
+]

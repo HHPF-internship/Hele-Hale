@@ -1,0 +1,756 @@
+[
+{
+  "ParcelNumber": "4590020280000",
+  "LastSaleDate": "2024-04-16T10:00:00Z",
+  "LastSalePrice": 3500000,
+  "LastSaleInstrument": "DEED",
+  "Transfers": [
+    {
+      "TransferId": 2468325,
+      "DocumentNumber": "88720350",
+      "BreakdownPrice": 0,
+      "Grantor": {
+        "GrantorId": 2184954,
+        "DocumentNumber": "88720350",
+        "Date": "2024-04-16T10:00:00Z",
+        "Price": 3500000,
+        "InstrumentType": "DEED",
+        "InstrumentTypeCustom": "DEED",
+        "Grantor": "SMITH, HILARY B",
+        "AdditionalGrantor": "SMITH, HILLARY B",
+        "LandCourtDocument": "0",
+        "CompanyTitle": "OR",
+        "SaleDocumentNumber": "88720350",
+        "BookPage": "DOC 88-720350",
+        "DocumentNumberCustom": "DOC 88720350",
+        "BureauOfConveyancesLink": "https://media.hawaiiinformation.com/REsearch/DisplayBOCdocument.asp?DB=DBLIVE&docNum=88720350&lcdNum=0&documentType=BOC&LS=RE&DT=9222&H=5534ae0efb54cf3d865eaf34c13cbc76",
+        "Grantees": [
+          {
+            "GranteId": 5295311,
+            "DocumentNumber": "88720350",
+            "Sequence": 1,
+            "SaleGrantee": "AIELLO, ANDREW B",
+            "SaleGranteeType": "TR",
+            "Tenancy": "TS"
+          },
+          {
+            "GranteId": 5295312,
+            "DocumentNumber": "88720350",
+            "Sequence": 2,
+            "SaleGrantee": "*BRISTLECONE INVESTMENTS TRUST DATED FEBRUARY"
+          },
+          {
+            "GranteId": 5295313,
+            "DocumentNumber": "88720350",
+            "Sequence": 3,
+            "SaleGrantee": "*6, 2022, AND ANY AMENDMENTS THERETO, WITH"
+          },
+          {
+            "GranteId": 5295314,
+            "DocumentNumber": "88720350",
+            "Sequence": 4,
+            "SaleGrantee": "*FULL POWERS"
+          },
+          {
+            "GranteId": 5295315,
+            "DocumentNumber": "88720350",
+            "Sequence": 5,
+            "SaleGrantee": "AIELLO, MIRIAM D",
+            "SaleGranteeType": "TR",
+            "Tenancy": "TS"
+          },
+          {
+            "GranteId": 5295316,
+            "DocumentNumber": "88720350",
+            "Sequence": 6,
+            "SaleGrantee": "BRISTLECONE INVESTMENTS TRUST",
+            "SaleGranteeType": "TT",
+            "Tenancy": "TS"
+          }
+        ]
+      }
+    }
+  ]
+},
+{
+  "ParcelNumber": "4580120200000",
+  "LastSaleDate": "2024-03-12T10:00:00Z",
+  "LastSalePrice": 2200000,
+  "LastSaleInstrument": "DEED",
+  "Transfers": [
+    {
+      "TransferId": 2460186,
+      "DocumentNumber": "88370228",
+      "BreakdownPrice": 0,
+      "Grantor": {
+        "GrantorId": 2180596,
+        "DocumentNumber": "88370228",
+        "Date": "2024-03-12T10:00:00Z",
+        "Price": 2200000,
+        "InstrumentType": "DEED",
+        "InstrumentTypeCustom": "DEED",
+        "Grantor": "SWOPE, GREG H",
+        "AdditionalGrantor": "RUSSELL SWOPE, DONNA J",
+        "LandCourtDocument": "0",
+        "CompanyTitle": "TG",
+        "SaleDocumentNumber": "88370228",
+        "BookPage": "DOC 88-370228",
+        "DocumentNumberCustom": "DOC 88370228",
+        "BureauOfConveyancesLink": "https://media.hawaiiinformation.com/REsearch/DisplayBOCdocument.asp?DB=DBLIVE&docNum=88370228&lcdNum=0&documentType=BOC&LS=RE&DT=9218&H=8e4c7ae2d4f1e8a48071105216fd4710",
+        "Grantees": [
+          {
+            "GranteId": 5269042,
+            "DocumentNumber": "88370228",
+            "Sequence": 1,
+            "SaleGrantee": "ARMSTRONG, ANALISA",
+            "SaleGranteeType": "HW",
+            "Tenancy": "TE"
+          },
+          {
+            "GranteId": 5269043,
+            "DocumentNumber": "88370228",
+            "Sequence": 2,
+            "SaleGrantee": "ARMSTRONG, JOHN MACY",
+            "SaleGranteeType": "HW",
+            "Tenancy": "TE"
+          }
+        ]
+      }
+    }
+  ]
+},
+{
+  "ParcelNumber": "4580110530000",
+  "LastSaleDate": "2024-05-31T10:00:00Z",
+  "LastSalePrice": 2035000,
+  "LastSaleInstrument": "DEED",
+  "Transfers": [
+    {
+      "TransferId": 2480502,
+      "DocumentNumber": "89170096",
+      "BreakdownPrice": 0,
+      "Grantor": {
+        "GrantorId": 2191554,
+        "DocumentNumber": "89170096",
+        "Date": "2024-05-31T10:00:00Z",
+        "Price": 2035000,
+        "InstrumentType": "DEED",
+        "InstrumentTypeCustom": "DEED",
+        "Grantor": "REES, DAVID D",
+        "AdditionalGrantor": "DAVID D REES LIVING TRUST",
+        "LandCourtDocument": "0",
+        "CompanyTitle": "TG",
+        "SaleDocumentNumber": "89170096",
+        "BookPage": "DOC 89-170096",
+        "DocumentNumberCustom": "DOC 89170096",
+        "BureauOfConveyancesLink": "https://media.hawaiiinformation.com/REsearch/DisplayBOCdocument.asp?DB=DBLIVE&docNum=89170096&lcdNum=0&documentType=BOC&LS=RE&DT=9224&H=56d8f018f5cd5bf3c1bc63d5d43fd39c",
+        "Grantees": [
+          {
+            "GranteId": 5332096,
+            "DocumentNumber": "89170096",
+            "Sequence": 1,
+            "SaleGrantee": "KORMELUK, NICHOLAS M",
+            "SaleGranteeType": "HW",
+            "Tenancy": "TE"
+          },
+          {
+            "GranteId": 5332097,
+            "DocumentNumber": "89170096",
+            "Sequence": 2,
+            "SaleGrantee": "KORMELUK, STEPHANIE M",
+            "SaleGranteeType": "HW",
+            "Tenancy": "TE"
+          }
+        ]
+      }
+    }
+  ]
+},
+{
+  "ParcelNumber": "4580110270030",
+  "LastSaleDate": "2024-03-20T10:00:00Z",
+  "LastSalePrice": 675000,
+  "LastSaleInstrument": "DEED",
+  "Transfers": [
+    {
+      "TransferId": 2461052,
+      "DocumentNumber": "88450391",
+      "BreakdownPrice": 0,
+      "Grantor": {
+        "GrantorId": 2181637,
+        "DocumentNumber": "88450391",
+        "Date": "2024-03-20T10:00:00Z",
+        "Price": 675000,
+        "InstrumentType": "DEED",
+        "InstrumentTypeCustom": "DEED",
+        "Grantor": "BOVEE, TARYN APPELBLOM",
+        "AdditionalGrantor": "THE BOVEE FAMILY TRUST",
+        "LandCourtDocument": "0",
+        "CompanyTitle": "NONE AVAILABLE",
+        "SaleDocumentNumber": "88450391",
+        "BookPage": "DOC 88-450391",
+        "DocumentNumberCustom": "DOC 88450391",
+        "BureauOfConveyancesLink": "https://media.hawaiiinformation.com/REsearch/DisplayBOCdocument.asp?DB=DBLIVE&docNum=88450391&lcdNum=0&documentType=BOC&LS=RE&DT=9227&H=5b8160576f57d4cfd02d952adc3ead15",
+        "Grantees": [
+          {
+            "GranteId": 5271692,
+            "DocumentNumber": "88450391",
+            "Sequence": 1,
+            "SaleGrantee": "APPELBLOM, PAUL ALLEN",
+            "SaleGranteeType": "TR",
+            "Tenancy": "LV"
+          },
+          {
+            "GranteId": 5271693,
+            "DocumentNumber": "88450391",
+            "Sequence": 2,
+            "SaleGrantee": "*APPELBLOM LIVING TRUST DATED JUNE 18, 2022,"
+          },
+          {
+            "GranteId": 5271694,
+            "DocumentNumber": "88450391",
+            "Sequence": 3,
+            "SaleGrantee": "*AND ANY AMENDMENTS THERETO, IN TRUST, WITH"
+          },
+          {
+            "GranteId": 5271695,
+            "DocumentNumber": "88450391",
+            "Sequence": 4,
+            "SaleGrantee": "*FULL POWERS"
+          },
+          {
+            "GranteId": 5271696,
+            "DocumentNumber": "88450391",
+            "Sequence": 5,
+            "SaleGrantee": "APPELBLOM, MEGAN",
+            "SaleGranteeType": "TR",
+            "Tenancy": "LV"
+          },
+          {
+            "GranteId": 5271697,
+            "DocumentNumber": "88450391",
+            "Sequence": 6,
+            "SaleGrantee": "APPELBLOM LIVING TRUST",
+            "SaleGranteeType": "LV",
+            "Tenancy": "LV"
+          }
+        ]
+      }
+    }
+  ]
+},
+{
+  "ParcelNumber": "4580110250000",
+  "LastSaleDate": "2024-03-01T10:00:00Z",
+  "LastSalePrice": 1950000,
+  "LastSaleInstrument": "DEED",
+  "Transfers": [
+    {
+      "TransferId": 2457313,
+      "DocumentNumber": "88260331",
+      "BreakdownPrice": 0,
+      "Grantor": {
+        "GrantorId": 2179568,
+        "DocumentNumber": "88260331",
+        "Date": "2024-03-01T10:00:00Z",
+        "Price": 1950000,
+        "InstrumentType": "DEED",
+        "InstrumentTypeCustom": "DEED",
+        "Grantor": "SMITH JR, GARRETT J",
+        "LandCourtDocument": "0",
+        "CompanyTitle": "TG",
+        "SaleDocumentNumber": "88260331",
+        "BookPage": "DOC 88-260331",
+        "DocumentNumberCustom": "DOC 88260331",
+        "BureauOfConveyancesLink": "https://media.hawaiiinformation.com/REsearch/DisplayBOCdocument.asp?DB=DBLIVE&docNum=88260331&lcdNum=0&documentType=BOC&LS=RE&DT=9223&H=1ed9274e5cf7dc3931e7e388f58a79c0",
+        "Grantees": [
+          {
+            "GranteId": 5259394,
+            "DocumentNumber": "88260331",
+            "Sequence": 1,
+            "SaleGrantee": "WINKISEBLACK, ROBERT W",
+            "SaleGranteeType": "TR",
+            "Tenancy": "FM"
+          },
+          {
+            "GranteId": 5259395,
+            "DocumentNumber": "88260331",
+            "Sequence": 2,
+            "SaleGrantee": "*THE WINKLEBLACK FAMILY TRUST DATED MAY 30,"
+          },
+          {
+            "GranteId": 5259396,
+            "DocumentNumber": "88260331",
+            "Sequence": 3,
+            "SaleGrantee": "*2023, IN TRUST, WITH FULL POWERS"
+          },
+          {
+            "GranteId": 5259397,
+            "DocumentNumber": "88260331",
+            "Sequence": 4,
+            "SaleGrantee": "WENICLEBLACK, TRACY L",
+            "SaleGranteeType": "TR",
+            "Tenancy": "FM"
+          },
+          {
+            "GranteId": 5259398,
+            "DocumentNumber": "88260331",
+            "Sequence": 5,
+            "SaleGrantee": "THE WINKLEBLACK FAMILY TRUST",
+            "SaleGranteeType": "FM",
+            "Tenancy": "FM"
+          }
+        ]
+      }
+    }
+  ]
+},
+{
+  "ParcelNumber": "1240050100000",
+  "LastSaleDate": "2024-04-04T10:00:00Z",
+  "LastSalePrice": 3525000,
+  "LastSaleInstrument": "DEED",
+  "Transfers": [
+    {
+      "TransferId": 2464844,
+      "DocumentNumber": "88600227",
+      "BreakdownPrice": 0,
+      "Grantor": {
+        "GrantorId": 2183497,
+        "DocumentNumber": "88600227",
+        "Date": "2024-04-04T10:00:00Z",
+        "Price": 3525000,
+        "InstrumentType": "DEED",
+        "InstrumentTypeCustom": "DEED",
+        "Grantor": "MOTOSUE YSP LLC",
+        "AdditionalGrantor": "NAKATSU YSP LLC",
+        "LandCourtDocument": "0",
+        "CompanyTitle": "TG",
+        "SaleDocumentNumber": "88600227",
+        "BookPage": "DOC 88-600227",
+        "DocumentNumberCustom": "DOC 88600227",
+        "BureauOfConveyancesLink": "https://media.hawaiiinformation.com/REsearch/DisplayBOCdocument.asp?DB=DBLIVE&docNum=88600227&lcdNum=0&documentType=BOC&LS=RE&DT=9208&H=f3608df92a9052e66633f081f007d177",
+        "Grantees": [
+          {
+            "GranteId": 5283798,
+            "DocumentNumber": "88600227",
+            "Sequence": 1,
+            "SaleGrantee": "LOCAL 5 PROPERTIES INC",
+            "SaleGranteeType": "CN",
+            "Tenancy": "TS"
+          }
+        ]
+      }
+    }
+  ]
+},
+{
+  "ParcelNumber": "1240030030069",
+  "LastSaleDate": "2024-04-08T10:00:00Z",
+  "LastSalePrice": 255000,
+  "LastSaleInstrument": "DEED",
+  "Transfers": [
+    {
+      "TransferId": 2465317,
+      "DocumentNumber": "88640212",
+      "BreakdownPrice": 0,
+      "Grantor": {
+        "GrantorId": 2183737,
+        "DocumentNumber": "88640212",
+        "Date": "2024-04-08T10:00:00Z",
+        "Price": 255000,
+        "InstrumentType": "DEED",
+        "InstrumentTypeCustom": "DEED",
+        "Grantor": "KAWAI, COLINS A",
+        "AdditionalGrantor": "KAWAI, JOAN K",
+        "LandCourtDocument": "0",
+        "CompanyTitle": "TG",
+        "SaleDocumentNumber": "88640212",
+        "BookPage": "DOC 88-640212",
+        "DocumentNumberCustom": "DOC 88640212",
+        "BureauOfConveyancesLink": "https://media.hawaiiinformation.com/REsearch/DisplayBOCdocument.asp?DB=DBLIVE&docNum=88640212&lcdNum=0&documentType=BOC&LS=RE&DT=9227&H=cbbba67f215fb309985f48c6057cd0b9",
+        "Grantees": [
+          {
+            "GranteId": 5285320,
+            "DocumentNumber": "88640212",
+            "Sequence": 1,
+            "SaleGrantee": "USUI, JOHN YUKIO",
+            "SaleGranteeType": "HW",
+            "Tenancy": "TE"
+          },
+          {
+            "GranteId": 5285321,
+            "DocumentNumber": "88640212",
+            "Sequence": 2,
+            "SaleGrantee": "LONG USUI, NANCY JAN",
+            "SaleGranteeType": "HW",
+            "Tenancy": "TE"
+          }
+        ]
+      }
+    }
+  ]
+},
+{
+  "ParcelNumber": "1240020150000",
+  "LastSaleDate": "2024-01-30T10:00:00Z",
+  "LastSalePrice": 1099000,
+  "LastSaleInstrument": "DEED",
+  "Transfers": [
+    {
+      "TransferId": 2449396,
+      "DocumentNumber": "87950174",
+      "BreakdownPrice": 0,
+      "Grantor": {
+        "GrantorId": 2175903,
+        "DocumentNumber": "87950174",
+        "Date": "2024-01-30T10:00:00Z",
+        "Price": 1099000,
+        "InstrumentType": "DEED",
+        "InstrumentTypeCustom": "DEED",
+        "Grantor": "ZOM ZOM LLC",
+        "LandCourtDocument": "0",
+        "CompanyTitle": "TG",
+        "SaleDocumentNumber": "87950174",
+        "BookPage": "DOC 87-950174",
+        "DocumentNumberCustom": "DOC 87950174",
+        "BureauOfConveyancesLink": "https://media.hawaiiinformation.com/REsearch/DisplayBOCdocument.asp?DB=DBLIVE&docNum=87950174&lcdNum=0&documentType=BOC&LS=RE&DT=9208&H=17bcd296609bebaae24cd3292a8c42f0",
+        "Grantees": [
+          {
+            "GranteId": 5235106,
+            "DocumentNumber": "87950174",
+            "Sequence": 1,
+            "SaleGrantee": "STOERMER, CHRISTOPHER NIELS",
+            "SaleGranteeType": "MM",
+            "Tenancy": "TS"
+          }
+        ]
+      }
+    }
+  ]
+},
+{
+  "ParcelNumber": "1230410110103",
+  "LastSaleDate": "2024-03-08T10:00:00Z",
+  "LastSalePrice": 341000,
+  "LastSaleInstrument": "DEED",
+  "Transfers": [
+    {
+      "TransferId": 2458601,
+      "DocumentNumber": "912485001",
+      "BreakdownPrice": 0,
+      "Grantor": {
+        "GrantorId": 2180238,
+        "DocumentNumber": "912485001",
+        "Date": "2024-03-08T10:00:00Z",
+        "Price": 341000,
+        "InstrumentType": "DEED",
+        "InstrumentTypeCustom": "DEED",
+        "Grantor": "WANG, RUI PING",
+        "LandCourtDocument": "12485001",
+        "CompanyTitle": "PREMIER TITLE",
+        "SaleDocumentNumber": "0",
+        "BureauOfConveyancesLink": "https://media.hawaiiinformation.com/REsearch/DisplayBOCdocument.asp?DB=DBLIVE&docNum=912485001&lcdNum=12485001&documentType=BOC&LS=RE&DT=9227&H=aeb6d0e844120100de450808d09af79d",
+        "Grantees": [
+          {
+            "GranteId": 5263295,
+            "DocumentNumber": "912485001",
+            "Sequence": 1,
+            "SaleGrantee": "KOOK, ALAN HWA SOO",
+            "SaleGranteeType": "UN",
+            "Tenancy": "TS"
+          }
+        ]
+      }
+    }
+  ]
+},
+{
+  "ParcelNumber": "1230410110095",
+  "LastSaleDate": "2024-06-27T10:00:00Z",
+  "LastSalePrice": 395600,
+  "LastSaleInstrument": "DEED",
+  "Transfers": [
+    {
+      "TransferId": 2488133,
+      "DocumentNumber": "912596179",
+      "BreakdownPrice": 0,
+      "Grantor": {
+        "GrantorId": 2194526,
+        "DocumentNumber": "912596179",
+        "Date": "2024-06-27T10:00:00Z",
+        "Price": 395600,
+        "InstrumentType": "DEED",
+        "InstrumentTypeCustom": "DEED",
+        "Grantor": "DLFL HOLDING LLC",
+        "LandCourtDocument": "12596179",
+        "CompanyTitle": "NONE AVAILABLE",
+        "SaleDocumentNumber": "0",
+        "BureauOfConveyancesLink": "https://media.hawaiiinformation.com/REsearch/DisplayBOCdocument.asp?DB=DBLIVE&docNum=912596179&lcdNum=12596179&documentType=BOC&LS=RE&DT=9227&H=284ed0d6994e9cfbfe30c0c3bd392e1b",
+        "Grantees": [
+          {
+            "GranteId": 5361444,
+            "DocumentNumber": "912596179",
+            "Sequence": 1,
+            "SaleGrantee": "KSH HOLDING LLC",
+            "SaleGranteeType": "LC"
+          }
+        ]
+      }
+    }
+  ]
+},
+{
+  "ParcelNumber": "1230410110056",
+  "LastSaleDate": "2024-06-27T10:00:00Z",
+  "LastSalePrice": 427300,
+  "LastSaleInstrument": "DEED",
+  "Transfers": [
+    {
+      "TransferId": 2488135,
+      "DocumentNumber": "912596183",
+      "BreakdownPrice": 0,
+      "Grantor": {
+        "GrantorId": 2194528,
+        "DocumentNumber": "912596183",
+        "Date": "2024-06-27T10:00:00Z",
+        "Price": 427300,
+        "InstrumentType": "DEED",
+        "InstrumentTypeCustom": "DEED",
+        "Grantor": "DLFL HOLDING LLC",
+        "LandCourtDocument": "12596183",
+        "CompanyTitle": "NONE AVAILABLE",
+        "SaleDocumentNumber": "0",
+        "BureauOfConveyancesLink": "https://media.hawaiiinformation.com/REsearch/DisplayBOCdocument.asp?DB=DBLIVE&docNum=912596183&lcdNum=12596183&documentType=BOC&LS=RE&DT=9227&H=cfbfdf2c3c7b66a4c3907c6cc50a1b7e",
+        "Grantees": [
+          {
+            "GranteId": 5361450,
+            "DocumentNumber": "912596183",
+            "Sequence": 1,
+            "SaleGrantee": "KSH HOLDING LLC",
+            "SaleGranteeType": "LC"
+          }
+        ]
+      }
+    }
+  ]
+},
+{
+  "ParcelNumber": "1230410110036",
+  "LastSaleDate": "2024-05-31T10:00:00Z",
+  "LastSalePrice": 420000,
+  "LastSaleInstrument": "DEED",
+  "Transfers": [
+    {
+      "TransferId": 2480407,
+      "DocumentNumber": "912569072",
+      "BreakdownPrice": 0,
+      "Grantor": {
+        "GrantorId": 2191031,
+        "DocumentNumber": "912569072",
+        "Date": "2024-05-31T10:00:00Z",
+        "Price": 420000,
+        "InstrumentType": "DEED",
+        "InstrumentTypeCustom": "DEED",
+        "Grantor": "LAM, HUY GIA",
+        "AdditionalGrantor": "HUANG, JIA YING",
+        "LandCourtDocument": "12569072",
+        "CompanyTitle": "FIDELITY NATIONAL TITLE & ES",
+        "SaleDocumentNumber": "0",
+        "BureauOfConveyancesLink": "https://media.hawaiiinformation.com/REsearch/DisplayBOCdocument.asp?DB=DBLIVE&docNum=912569072&lcdNum=12569072&documentType=BOC&LS=RE&DT=9227&H=8dbba7e67635ec21e980805242b95e03",
+        "Grantees": [
+          {
+            "GranteId": 5331892,
+            "DocumentNumber": "912569072",
+            "Sequence": 1,
+            "SaleGrantee": "LEE, LE KIM",
+            "SaleGranteeType": "MW",
+            "Tenancy": "TS"
+          }
+        ]
+      }
+    }
+  ]
+},
+{
+  "ParcelNumber": "1230400220096",
+  "LastSaleDate": "2024-02-21T10:00:00Z",
+  "LastSalePrice": 1788000,
+  "LastSaleInstrument": "DEED",
+  "Transfers": [
+    {
+      "TransferId": 2453957,
+      "DocumentNumber": "912469022",
+      "BreakdownPrice": 0,
+      "Grantor": {
+        "GrantorId": 2178056,
+        "DocumentNumber": "912469022",
+        "Date": "2024-02-21T10:00:00Z",
+        "Price": 1788000,
+        "InstrumentType": "DEED",
+        "InstrumentTypeCustom": "DEED",
+        "Grantor": "TAKENAGA, SHUICHI",
+        "LandCourtDocument": "12469022",
+        "CompanyTitle": "FIDELITY NATIONAL TITLE",
+        "SaleDocumentNumber": "0",
+        "BureauOfConveyancesLink": "https://media.hawaiiinformation.com/REsearch/DisplayBOCdocument.asp?DB=DBLIVE&docNum=912469022&lcdNum=12469022&documentType=BOC&LS=RE&DT=9227&H=d93a7ed1efe5ef8bdc58c7bd514fd0d1",
+        "Grantees": [
+          {
+            "GranteId": 5248729,
+            "DocumentNumber": "912469022",
+            "Sequence": 1,
+            "SaleGrantee": "YEE, LYNETTE Y",
+            "SaleGranteeType": "TR",
+            "Tenancy": "RT"
+          },
+          {
+            "GranteId": 5248730,
+            "DocumentNumber": "912469022",
+            "Sequence": 2,
+            "SaleGrantee": "*LYNETTE Y. YEE REVOCABLE TRUST DATED AUGUST"
+          },
+          {
+            "GranteId": 5248731,
+            "DocumentNumber": "912469022",
+            "Sequence": 3,
+            "SaleGrantee": "*18, 2020, IN TRUST, WITH FULL POWERS"
+          },
+          {
+            "GranteId": 5248732,
+            "DocumentNumber": "912469022",
+            "Sequence": 4,
+            "SaleGrantee": "LYNETTE Y YEE REVOCABLE TRUST",
+            "SaleGranteeType": "RT",
+            "Tenancy": "RT"
+          }
+        ]
+      }
+    }
+  ]
+},
+{
+  "ParcelNumber": "1230400220034",
+  "LastSaleDate": "2024-04-01T10:00:00Z",
+  "LastSalePrice": 1750000,
+  "LastSaleInstrument": "DEED",
+  "Transfers": [
+    {
+      "TransferId": 2463824,
+      "DocumentNumber": "912509036",
+      "BreakdownPrice": 0,
+      "Grantor": {
+        "GrantorId": 2182819,
+        "DocumentNumber": "912509036",
+        "Date": "2024-04-01T10:00:00Z",
+        "Price": 1750000,
+        "InstrumentType": "DEED",
+        "InstrumentTypeCustom": "DEED",
+        "Grantor": "SHIMIZU, NAGAHIRO",
+        "LandCourtDocument": "12509036",
+        "CompanyTitle": "FNT",
+        "SaleDocumentNumber": "0",
+        "BureauOfConveyancesLink": "https://media.hawaiiinformation.com/REsearch/DisplayBOCdocument.asp?DB=DBLIVE&docNum=912509036&lcdNum=12509036&documentType=BOC&LS=RE&DT=9227&H=803accb033ab2770c9ef6948c3d1a1c1",
+        "Grantees": [
+          {
+            "GranteId": 5280353,
+            "DocumentNumber": "912509036",
+            "Sequence": 1,
+            "SaleGrantee": "HORIE, GUY MASAJI",
+            "SaleGranteeType": "HW",
+            "Tenancy": "JS"
+          },
+          {
+            "GranteId": 5280354,
+            "DocumentNumber": "912509036",
+            "Sequence": 2,
+            "SaleGrantee": "HORIE, ALISON SACHIE",
+            "SaleGranteeType": "HW",
+            "Tenancy": "JS"
+          }
+        ]
+      }
+    }
+  ]
+},
+{
+  "ParcelNumber": "1230400220011",
+  "LastSaleDate": "2024-04-30T10:00:00Z",
+  "LastSalePrice": 2000000,
+  "LastSaleInstrument": "DEED",
+  "Transfers": [
+    {
+      "TransferId": 2471376,
+      "DocumentNumber": "912538069",
+      "BreakdownPrice": 0,
+      "Grantor": {
+        "GrantorId": 2186603,
+        "DocumentNumber": "912538069",
+        "Date": "2024-04-30T10:00:00Z",
+        "Price": 2000000,
+        "InstrumentType": "DEED",
+        "InstrumentTypeCustom": "DEED",
+        "Grantor": "TANAKA, KEIKO",
+        "AdditionalGrantor": "TANAKA, RIWA",
+        "LandCourtDocument": "12538069",
+        "CompanyTitle": "FAM",
+        "SaleDocumentNumber": "0",
+        "BureauOfConveyancesLink": "https://media.hawaiiinformation.com/REsearch/DisplayBOCdocument.asp?DB=DBLIVE&docNum=912538069&lcdNum=12538069&documentType=BOC&LS=RE&DT=9227&H=bc477b5e1cb09c0176cd34a0b8027116",
+        "Grantees": [
+          {
+            "GranteId": 5304880,
+            "DocumentNumber": "912538069",
+            "Sequence": 1,
+            "SaleGrantee": "GOOD POSITION CO LTD",
+            "SaleGranteeType": "CN"
+          }
+        ]
+      }
+    }
+  ]
+},
+{
+  "ParcelNumber": "1230390190052",
+  "LastSaleDate": "2024-02-22T10:00:00Z",
+  "LastSalePrice": 810000,
+  "LastSaleInstrument": "DEED",
+  "Transfers": [
+    {
+      "TransferId": 2454255,
+      "DocumentNumber": "912470014",
+      "BreakdownPrice": 0,
+      "Grantor": {
+        "GrantorId": 2178249,
+        "DocumentNumber": "912470014",
+        "Date": "2024-02-22T10:00:00Z",
+        "Price": 810000,
+        "InstrumentType": "DEED",
+        "InstrumentTypeCustom": "DEED",
+        "Grantor": "KANAZAWA, YOSHIAKI",
+        "AdditionalGrantor": "KANAZAWA, SETSUKO",
+        "LandCourtDocument": "12470014",
+        "CompanyTitle": "TG",
+        "SaleDocumentNumber": "0",
+        "BureauOfConveyancesLink": "https://media.hawaiiinformation.com/REsearch/DisplayBOCdocument.asp?DB=DBLIVE&docNum=912470014&lcdNum=12470014&documentType=BOC&LS=RE&DT=9227&H=997b071091099844e8601227e54424cb",
+        "Grantees": [
+          {
+            "GranteId": 5249674,
+            "DocumentNumber": "912470014",
+            "Sequence": 1,
+            "SaleGrantee": "TIMMONS, THOMAS GREGORY",
+            "SaleGranteeType": "HW",
+            "Tenancy": "TE"
+          },
+          {
+            "GranteId": 5249675,
+            "DocumentNumber": "912470014",
+            "Sequence": 2,
+            "SaleGrantee": "FALLBECK, PATRICIA DENISE",
+            "SaleGranteeType": "HW",
+            "Tenancy": "TE"
+          }
+        ]
+      }
+    }
+  ]
+}
+]
