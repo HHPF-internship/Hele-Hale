@@ -1,4 +1,5 @@
 Ronan Russel Andal
+How to run code:
 Update the bearer token in fetch_housing_data.py.
 You can find your bearer token by logging into mls.hiinfo.com, inspecting any network request (Inspect → Network tab), and copying the token from the Request Headers.
 
