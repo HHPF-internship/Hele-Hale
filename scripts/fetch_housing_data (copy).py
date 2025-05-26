@@ -156,7 +156,7 @@ def main():
     
     # Replace these with your actual values
     BASE_URL = "https://mls.hiinfo.com"
-    BEARER_TOKEN = "eyJraWQiOiJyc2ExIiwiYWxnIjoiUlMyNTYifQ.eyJzdWIiOiJUTUsxNDE0MyIsImF6cCI6Im1scyIsImlzcyI6Imh0dHBzOlwvXC9hdXRoLmhpaW5mby5jb20iLCJleHAiOjE3NDU0NTY4NDcsImlhdCI6MTc0NTQ0MjQ0NywianRpIjoiYjhlMWMwNzgtMWVhMS00ZDVmLTkxODctMmUzMzg5NGVkMDMyIn0.M6DnIqpnANkZALa-2fVGSM1fWnonG1XxC-iN-gEMam3XImPbjKFP9kufF9LVR_1U1dC4CfO6_UwgaI6IyJwC-ENQr2VilYYNHMBeNsPJ7jvBpaPIQ1QVi3AcyA43-wK9PILc4iWEUrSXAyLnPEW4elotlEC0vDoJ4nW71fZf-OU"
+    BEARER_TOKEN = "eyJraWQiOiJyc2ExIiwiYWxnIjoiUlMyNTYifQ.eyJzdWIiOiJUTUsxNDE0MyIsImF6cCI6Im1scyIsImlzcyI6Imh0dHBzOlwvXC9hdXRoLmhpaW5mby5jb20iLCJleHAiOjE3NDgyMzE4NDcsImlhdCI6MTc0ODIxNzQ0NywianRpIjoiMDU0OTljZTQtNWM3Zi00MWFmLTk3MzctZTY2NzQ3ZjJhNTJiIn0.dlcoRjgTjkQpjZI9sdT61208ycmLAYfwQ1JadBRmgQ4kiRkfDO3TCANUJHipKd1HZiFaCKYk_afrnq05sBRS2tusfIXabOZ8Xe94U4IECwlnZpNnduaVQD24M6T0oKxsKmo-7MaR53KmJhQC6ioE9BiMRYwEg6rqseTKrTsdprY"
     
     # Use provided output file or generate one with timestamp
     output_file = args.output_file or f'housing_data_{datetime.now().strftime("%Y%m%d_%H%M%S")}.json'
@@ -164,11 +164,11 @@ def main():
     # Initialize the client
     client = APIClient(BASE_URL, BEARER_TOKEN, output_file)
     
-    query_first_half = "(TaxMapKey.Transfers.Grantor.Date: from 2024-01-01T00:00:00-10:00 to 2024-06-30T23:59:59-10:00) AND (TaxMapKey.LastSaleInstrument: \"DEED\") AND (TaxMapKey.Transfers.Grantor.Price: from 200000)"
-    total_results_first_half = 7967
+    query_first_half = "(TaxMapKey.Transfers.Grantor.Date: from 2023-01-01T00:00:00-10:00 to 2023-06-30T23:59:59-10:00) AND (TaxMapKey.LastSaleInstrument: \"DEED\") AND (TaxMapKey.Transfers.Grantor.Price: from 200000)"
+    total_results_first_half = 10159
     
-    query_second_half = "(TaxMapKey.Transfers.Grantor.Date: from 2024-07-01T00:00:00-10:00 to 2024-12-31T23:59:59-10:00) AND (TaxMapKey.LastSaleInstrument: \"DEED\") AND (TaxMapKey.Transfers.Grantor.Price: from 200000)"
-    total_results_second_half = 8512
+    query_second_half = "(TaxMapKey.Transfers.Grantor.Date: from 2023-07-01T00:00:00-10:00 to 2023-12-31T23:59:59-10:00) AND (TaxMapKey.LastSaleInstrument: \"DEED\") AND (TaxMapKey.Transfers.Grantor.Price: from 200000)"
+    total_results_second_half = 10288
     
     try:
         # Fetch results for first half of 2024
